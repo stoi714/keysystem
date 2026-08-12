@@ -23,7 +23,7 @@ local Config = {
     Secret          = "PopRock", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
-    MainScriptURL   = "https://loot-link.com/s?U5YtD0Uu", -- The raw URL of your main script
+    MainScriptURL   = "https://raw.githubusercontent.com/stoi714/keysystem/refs/heads/main/script.lua", -- The raw URL of your main script
     
     -- [4] Social Media Settings (Set to true to show, false to hide)
     ShowDiscord     = false,
